@@ -1,0 +1,8 @@
+--- a/spec/spec_helper.rb
++++ b/spec/spec_helper.rb
+@@ -1,4 +1 @@
+-
+-require File.expand_path(
+-    File.join(File.dirname(__FILE__), %w[.. lib little-plugger]))
+-
++require 'little-plugger'
