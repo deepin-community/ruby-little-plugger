@@ -1,5 +1,19 @@
-template-repository (1.0-1) unstable; urgency=medium
+ruby-little-plugger (1.1.4-1.1) unstable; urgency=medium
 
-  * Initial release
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Holger Levsen <holger@debian.org>  Tue, 14 Jun 2022 15:22:36 +0200
+
+ruby-little-plugger (1.1.4-1) unstable; urgency=low
+
+  * Team upload
+  * New upstream release which is Ruby 2.x ready without patches
+
+ -- Michael Moll <kvedulv@kvedulv.de>  Fri, 28 Aug 2015 22:05:41 +0200
+
+ruby-little-plugger (1.1.3-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Hleb Valoshka <375gnu@gmail.com>  Wed, 15 Jul 2015 11:52:44 +0300
